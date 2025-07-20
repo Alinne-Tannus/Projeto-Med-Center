@@ -35,4 +35,4 @@ Este é um projeto simples de um site chamado Med Center, desenvolvido durante o
 -----------------------
   1. Clone este repositório ou baixe os arquivos.
 
-  2. Abra o arquivo index.html no seu navegador preferido.
+  2. Abra o arquivo `index.html` no seu navegador preferido.
