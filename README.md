@@ -1,9 +1,9 @@
-Med Center - Projeto Inicial
+🏥 Med Center - Projeto Inicial
 -----------------------
 Este é um projeto simples de um site chamado Med Center, desenvolvido durante o início dos meus estudos em desenvolvimento web. O objetivo principal foi praticar e entender os fundamentos de HTML e CSS.
 
 
-Sobre o Projeto
+📖 Sobre o Projeto
 -----------------------
   * Projeto feito para treinar a criação de layouts usando apenas HTML e CSS.
 
@@ -11,19 +11,19 @@ Sobre o Projeto
 
   * Representa uma página fictícia de um centro médico (Med Center).
 
-Tenologias Utilizadas
+🛠 Tenologias Utilizadas
 -----------------------
   * HTML5
 
   * CSS3
 
-Estrutura do Projeto
+🗂 Estrutura do Projeto
 -----------------------
    * index.html — arquivo principal com o conteúdo da página.
 
   * estilo.css — arquivo de estilos que formata o visual da página.
 
-Aprendizados
+📚 Aprendizados
 -----------------------
   * Compreensão básica da estrutura HTML.
 
@@ -31,7 +31,7 @@ Aprendizados
 
   * Noções iniciais de responsividade e organização de conteúdo.
 
-Como Executar
+🚀 Como Executar
 -----------------------
   1. Clone este repositório ou baixe os arquivos.
 
